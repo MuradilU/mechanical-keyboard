@@ -7,3 +7,12 @@
 [submodule "libs/random-keyboard-parts.pretty"]
 	path = libs/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "libs/Type-C.pretty"]
+	path = libs/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty.git
+[submodule "libs/Keebio-Parts.pretty"]
+	path = libs/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "libs/keebio-components"]
+	path = libs/keebio-components
+	url = https://github.com/keebio/keebio-components.git
