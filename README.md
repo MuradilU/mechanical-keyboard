@@ -10,5 +10,5 @@ A custom 65% mechanical keyboard PCB
 ## Features
 - USB-C
 - Over-current, over-voltage, and static discharge (ESD) protection
-- Atmega3A-AU processor
+- Atmega32A-AU processor
 - ISP/ICSP flashing capabilities
